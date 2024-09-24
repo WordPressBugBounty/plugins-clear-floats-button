@@ -1,0 +1,1 @@
+# plugins-clear-floats-button
